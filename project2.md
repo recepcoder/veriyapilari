@@ -21,4 +21,4 @@ Big-O Gösterimi : O ( nlogn )
 
 
 ### Proje Ana Sayfasına Dönmek İçin Tıklayınız 
-### [Veri Yapıları ve Algoritmalar](/Readme.md)
+### [Veri Yapıları ve Algoritmalar](/README.md)
