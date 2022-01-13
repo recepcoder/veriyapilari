@@ -28,3 +28,4 @@
 | 2. Aşama| 3 sıralı olan 7 ile karşılaştırılır duruma göre değişim gerçekleşir. | ``[(3,7),5,8,2,9,4,15,6]`` |
 | 3. Aşama| 5 kendinden bir öncekinden başlayarak sıralı grupta kıyaslanarak yerini alır.| ``[(3,5,7),8,2,9,4,15,6]`` |
 | 4. Aşama| 8 kendinden bir öncekinden başlayarak sıralı grupta kıyaslanarak yerini alır.|``[(2,3,5,7,8),9,4,15,6] `` |
+---
