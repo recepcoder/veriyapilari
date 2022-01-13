@@ -13,3 +13,12 @@
 ---
 <br>
 Big-O Gösterimi : O ( nlogn )
+
+---
+
+
+<br><br>
+
+
+### Proje Ana Sayfasına Dönmek İçin Tıklayınız 
+### [Veri Yapıları ve Algoritmalar](/Readme.md)
