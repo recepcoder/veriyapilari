@@ -1,8 +1,8 @@
 
 ## Veri Yapıları ve Algoritmalar Modülü Projeler
-### [Insertion Sort Projesi](/project1.html)
-### [Merge Sort Projesi](/project2.html) 
-### [Binary Search Tree Projesi](/project3.html)
+### [Insertion Sort Projesi](/project1.md)
+### [Merge Sort Projesi](/project2.md) 
+### [Binary Search Tree Projesi](/project3.md)
 ---
 # InsertionShortProject
 ![Project 1](project1.png)
